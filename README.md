@@ -1,4 +1,4 @@
-# 8 minutes to production
+# 8 minutes to a production web app
 Here is the code after completing the steps in my tutorial video.
 
 ## Running Locally
